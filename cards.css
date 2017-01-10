@@ -1,0 +1,13 @@
+body {
+  background-color: orange;
+}
+ .card {
+  background-color: #efefef;
+  border : 1px solid green;
+  width: 100px;
+  height: 100px;
+  padding-left: .5em;
+ }
+.delete {
+  display: none;
+}
